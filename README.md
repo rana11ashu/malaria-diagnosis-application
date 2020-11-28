@@ -12,3 +12,5 @@ Manual diagnosis of blood smears is an intensive manual process that requires ex
 
 Deep learning models, or more specifically convolutional neural networks (CNNs), have proven very effective in a wide variety of computer vision tasks.
 Thus, CNNs help with automated and scalable feature engineering. Also, plugging in dense layers at the end of the model enables us to perform tasks like image classification. Automated malaria detection using deep learning models like CNNs could be very effective, cheap, and scalable, especially with the advent of transfer learning and pre-trained models that work quite well, even with constraints like less data.
+
+The app can be found out at : https://malaria-diagnosis-application.herokuapp.com/
